@@ -1,0 +1,146 @@
+
+============================================================
+🔥 FREE FIRE AUTO LIKER v2.0 🔥
+============================================================
+
+🎯 Enter target UID: 
+🌍 Available Regions:
+   IND  - India
+   BR   - Brazil
+   US   - United States
+   SAC  - South America
+   NA   - North America
+   BD   - Bangladesh
+   Other - All other regions
+
+🌍 Enter region: 
+🔧 Configuration:
+   Target UID: 8047536268
+   Region: BD
+   Threads: 10
+   Accounts File: accounts.json
+
+⚠️  Continue? (y/n): 2026-01-31 14:17:34,191 - INFO - ✅ Loaded 12 accounts from accounts.json
+2026-01-31 14:17:34,193 - INFO - 🔑 Attempt 1 to get token for UID: 4243312310
+2026-01-31 14:17:34,195 - INFO - 🔑 Attempt 1 to get token for UID: 4270818362
+2026-01-31 14:17:34,197 - INFO - 🔑 Attempt 1 to get token for UID: 4295027880
+2026-01-31 14:17:34,200 - INFO - 🔑 Attempt 1 to get token for UID: 4295027963
+2026-01-31 14:17:34,201 - INFO - 🔑 Attempt 1 to get token for UID: 4279609024
+2026-01-31 14:17:34,204 - INFO - 🔑 Attempt 1 to get token for UID: 4295028189
+2026-01-31 14:17:34,211 - INFO - 🔑 Attempt 1 to get token for UID: 4335049182
+2026-01-31 14:17:34,227 - INFO - 🔑 Attempt 1 to get token for UID: 4337840459
+2026-01-31 14:17:34,225 - INFO - 🔑 Attempt 1 to get token for UID: 4274666113
+2026-01-31 14:17:34,202 - INFO - 🔑 Attempt 1 to get token for UID: 4295030463
+2026-01-31 14:17:34,849 - INFO - ✅ Successfully got OAuth token for UID: 4243312310
+2026-01-31 14:17:34,852 - INFO - ✅ Successfully got OAuth token for UID: 4270818362
+2026-01-31 14:17:34,869 - INFO - ✅ Successfully got OAuth token for UID: 4279609024
+2026-01-31 14:17:34,883 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,883 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,892 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,889 - INFO - ✅ Successfully got OAuth token for UID: 4295028189
+2026-01-31 14:17:34,898 - INFO - ✅ Successfully got OAuth token for UID: 4335049182
+2026-01-31 14:17:34,895 - INFO - ✅ Successfully got OAuth token for UID: 4337840459
+2026-01-31 14:17:34,909 - INFO - ✅ Successfully got OAuth token for UID: 4295027963
+2026-01-31 14:17:34,899 - INFO - ✅ Successfully got OAuth token for UID: 4295027880
+2026-01-31 14:17:34,934 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,927 - INFO - ✅ Successfully got OAuth token for UID: 4295030463
+2026-01-31 14:17:34,933 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,951 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,944 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,941 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,888 - INFO - ✅ Successfully got OAuth token for UID: 4274666113
+2026-01-31 14:17:34,966 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:34,988 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:35,324 - INFO - ✅ Successfully generated token for UID: 4243312310
+2026-01-31 14:17:35,325 - INFO - 🔑 Attempt 1 to get token for UID: 4337840535
+2026-01-31 14:17:35,357 - INFO - ✅ Successfully generated token for UID: 4279609024
+2026-01-31 14:17:35,358 - INFO - ✅ Successfully generated token for UID: 4270818362
+2026-01-31 14:17:35,361 - INFO - 🔑 Attempt 1 to get token for UID: 4337840537
+2026-01-31 14:17:35,367 - INFO - ✅ Successfully generated token for UID: 4335049182
+2026-01-31 14:17:35,394 - INFO - ✅ Successfully generated token for UID: 4295027963
+2026-01-31 14:17:35,438 - INFO - ✅ Successfully generated token for UID: 4295028189
+2026-01-31 14:17:35,451 - INFO - ✅ Successfully generated token for UID: 4274666113
+2026-01-31 14:17:35,458 - INFO - ✅ Successfully generated token for UID: 4337840459
+2026-01-31 14:17:35,469 - INFO - ✅ Successfully generated token for UID: 4295027880
+2026-01-31 14:17:35,479 - INFO - ✅ Successfully generated token for UID: 4295030463
+2026-01-31 14:17:35,844 - INFO - ✅ Successfully got OAuth token for UID: 4337840535
+2026-01-31 14:17:35,851 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:35,873 - INFO - ✅ Successfully got OAuth token for UID: 4337840537
+2026-01-31 14:17:35,881 - INFO - 🔄 Attempt 1 for MajorLogin
+2026-01-31 14:17:36,294 - INFO - ✅ Successfully generated token for UID: 4337840535
+2026-01-31 14:17:36,304 - INFO - ✅ Successfully generated token for UID: 4337840537
+🔥 FREE FIRE AUTO LIKER 🔥
+Developed by: t.me/danger_ff_like
+============================================================
+
+🔑 Generating tokens for 12 accounts using 10 threads...
+✅ [1/12] Token generated for UID: 4243312310
+✅ [2/12] Token generated for UID: 4279609024
+✅ [3/12] Token generated for UID: 4270818362
+✅ [4/12] Token generated for UID: 4335049182
+✅ [5/12] Token generated for UID: 4295027963
+✅ [6/12] Token generated for UID: 4295028189
+✅ [7/12] Token generated for UID: 4274666113
+✅ [8/12] Token generated for UID: 4337840459
+✅ [9/12] Token generated for UID: 4295027880
+✅ [10/12] Token generated for UID: 4295030463
+✅ [11/12] Token generated for UID: 4337840535
+✅ [12/12] Token generated for UID: 4337840537
+
+✅ Successfully generated 12 tokens out of 12 accounts
+
+============================================================
+🎯 PLAYER INFORMATION
+============================================================
+📡 Getting player information...
+👤 Nickname: DZO..모.Jebin
+🆔 UID: 8047536268
+❤️  Current Likes: 4886
+============================================================
+
+⚠️  Press Enter to start sending likes...
+============================================================
+🚀 STARTING LIKE BOMBING
+============================================================
+
+🚀 Sending likes to UID: 8047536268 in region: BD
+📊 Using 12 tokens with 10 parallel threads...
+------------------------------------------------------------
+✅ [5/12] Like sent from UID: 4295027963 to target: 8047536268
+✅ [6/12] Like sent from UID: 4295028189 to target: 8047536268
+✅ [2/12] Like sent from UID: 4279609024 to target: 8047536268
+✅ [4/12] Like sent from UID: 4335049182 to target: 8047536268
+✅ [8/12] Like sent from UID: 4337840459 to target: 8047536268
+✅ [1/12] Like sent from UID: 4243312310 to target: 8047536268
+✅ [3/12] Like sent from UID: 4270818362 to target: 8047536268
+✅ [9/12] Like sent from UID: 4295027880 to target: 8047536268
+✅ [7/12] Like sent from UID: 4274666113 to target: 8047536268
+✅ [10/12] Like sent from UID: 4295030463 to target: 8047536268
+✅ [11/12] Like sent from UID: 4337840535 to target: 8047536268
+✅ [12/12] Like sent from UID: 4337840537 to target: 8047536268
+------------------------------------------------------------
+
+⏳ Waiting for server to process likes...
+
+📡 Getting updated player information...
+
+============================================================
+📊 FINAL RESULTS
+============================================================
+👤 Player: DZO..모.Jebin
+🆔 UID: 8047536268
+❤️  Likes Before: 4886
+❤️  Likes After: 4898
+✅ Likes Added: 12
+------------------------------------------------------------
+🎯 Attempted Likes: 12
+✅ Successful Likes: 12
+❌ Failed Likes: 0
+📈 Success Rate: ✅ 100.0%
+============================================================
+
+💾 Results saved to 'likes_results.json'
+
+============================================================
+🎉 Operation Completed!
+============================================================

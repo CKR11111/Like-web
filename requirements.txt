@@ -1,0 +1,6 @@
+flask
+requests
+pycryptodome
+protobuf
+PyJWT
+googleapis-common-protos
