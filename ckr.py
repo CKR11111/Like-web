@@ -114,7 +114,7 @@ class FreeFireAutoLiker:
                 'Expect': "100-continue",
                 'X-Unity-Version': "2018.4.11f1",
                 'X-GA': "v1 1",
-                'ReleaseVersion': "OB52"
+                'ReleaseVersion': "OB53"
             }
 
             response = requests.post(url, data=edata, headers=headers, verify=False, timeout=10)
@@ -237,7 +237,7 @@ class FreeFireAutoLiker:
                     "Expect": "100-continue",
                     "X-Unity-Version": "2018.4.11f1",
                     "X-GA": "v1 1",
-                    "ReleaseVersion": "OB52"
+                    "ReleaseVersion": "OB53"
                 }
                 edata = bytes.fromhex(hex_encrypted_data)
 
@@ -382,7 +382,7 @@ class FreeFireAutoLiker:
                 'Expect': "100-continue",
                 'X-Unity-Version': "2018.4.11f1",
                 'X-GA': "v1 1",
-                'ReleaseVersion': "OB52"
+                'ReleaseVersion': "OB53"
             }
 
             # Send request
